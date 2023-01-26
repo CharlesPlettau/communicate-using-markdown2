@@ -6,3 +6,6 @@
 const test = "Hello";
 console.log(test);
 ```
+- [x] Brush Teeth
+- [x] Walk to class
+- [ ] Go to second class
